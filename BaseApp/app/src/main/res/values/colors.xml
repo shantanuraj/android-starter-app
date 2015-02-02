@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">@color/material_grey_900</color>
+    <color name="colorPrimary">@color/material_grey_800</color>
+
+    <color name="black">#000000</color>
+    <color name="primary_text">#dd000000</color>
+    <color name="secondary_text">#89000000</color>
+    <color name="hint_text">#42000000</color>
+    <color name="dividers">#06000000</color>
+
+    <color name="yellow100">#fff9c4</color>
+    <color name="yellow500">#ffeb3b</color>
+    <color name="yellow700">#fbc02d</color>
+
+    <color name="pink100">#f8bbd0</color>
+    <color name="pink500">#e91e63</color>
+    <color name="pink700">#c2185b</color>
+
+    <color name="bluegrey100">#cfd8dc</color>
+    <color name="bluegrey500">#607d8b</color>
+    <color name="bluegrey700">#455a64</color>
+    <color name="bluegrey800">#37474F</color>
+
+    <color name="material_grey_100">#F5F5F5</color>
+    <color name="material_grey_800">#313131</color>
+    <color name="material_grey_900">#212121</color>
+
+    <color name="lightblue100">#b3e5fc</color>
+    <color name="lightblue500">#03a9f4</color>
+    <color name="lightblue700">#0288d1</color>
+
+    <color name="material_deep_teal_400">#26A69A</color>
+    <color name="material_deep_teal_900">#004D40</color>
+</resources>
