@@ -7,14 +7,4 @@
     <include layout="@layout/toolbar"
              android:id="@+id/toolbar"/>
 
-    <FrameLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
-
-        <FrameLayout
-            android:layout_width="match_parent"
-            android:layout_height="3dp"
-            android:background="@drawable/toolbar_shadow" />
-    </FrameLayout>
-
 </LinearLayout>
